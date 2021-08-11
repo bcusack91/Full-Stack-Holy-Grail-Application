@@ -1,0 +1,16 @@
+HTML page, boilerplate title
+load libraries, superagent, babel, react
+load our react components
+create root element
+styles, grid, sections
+exercise: given components, how would you build?
+graphical build overview
+my approach: holy grail only
+adding data
+full solution
+exercise: how would you add a database
+redis - stand alone, docker & node command line
+node - connecting to redis
+node - api
+frontend: superagent to node api
+full solution
